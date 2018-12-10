@@ -1,4 +1,4 @@
-div.col-sm{
+div.col-sm, div.col{
   background-color: #E7D0A5;
   border-color: #E3B55C;
   border-width: 1px;
@@ -10,4 +10,12 @@ div.col-sm{
   border-image-repeat: initial;
   padding-bottom: .75rem;
   padding-top: .75rem;
+}
+
+div.row.top{
+  margin-top: 20px;
+}
+
+div.col{
+  background-color: #4DA78C;
 }
