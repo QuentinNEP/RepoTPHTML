@@ -1,0 +1,13 @@
+div.col-sm{
+  background-color: #E7D0A5;
+  border-color: #E3B55C;
+  border-width: 1px;
+  border-style: solid;
+  border-image-source: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  border-image-outset: initial;
+  border-image-repeat: initial;
+  padding-bottom: .75rem;
+  padding-top: .75rem;
+}
