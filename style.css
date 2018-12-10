@@ -19,3 +19,7 @@ div.row.top{
 div.col{
   background-color: #4DA78C;
 }
+
+div.col.carotte{
+  background-color: #FF8A1D;
+}
