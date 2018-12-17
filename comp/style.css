@@ -43,5 +43,14 @@ div.list-group{
 
 div.card{
   margin-top: 30px;
-  
+
+}
+
+nav{
+  background-color: 	#DB8D8F;
+}
+
+div.carousel{
+  width: 20%;
+  height: 20%;
 }
