@@ -54,3 +54,11 @@ div.carousel{
   width: 20%;
   height: 20%;
 }
+
+.form-group{
+  margin-top: 30px;
+}
+
+.progress-bar.bg-red{
+  background-color: #FF6064;
+}
