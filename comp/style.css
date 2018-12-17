@@ -76,3 +76,9 @@ nav.navbar{
 .form-control{
   background-color: #FF8A01;
 }
+
+.flex-card{
+  display: flex;
+  flex-wrap:wrap;
+
+}
