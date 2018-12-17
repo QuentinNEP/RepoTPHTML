@@ -62,3 +62,17 @@ div.carousel{
 .progress-bar.bg-red{
   background-color: #FF6064;
 }
+
+.bg-shitty{
+  background-color: #8D5E26;
+}
+
+nav.navbar{
+  position: sticky;
+  top: 0;
+  z-index: 999999;
+}
+
+.form-control{
+  background-color: #FF8A01;
+}
