@@ -206,7 +206,7 @@
 </form>
 
 
-<button type="button" class="btn btn-secondary btn-greenyguy" data-container="body" data-toggle="popover" data-placement="top" data-content="Ah bah c'était en haut héhé">
+<button type="button" class="btn btn-secondary btn-greenyguy" data-container="body" data-toggle="popover" data-trigger="focus" data-placement="top" data-content="Ah bah c'était en haut héhé">
   Regarde bien dessous du bouton !
 </button>
 
@@ -218,6 +218,10 @@
 <script type="text/javascript">
   $(function () {
   $('[data-toggle="popover"]').popover()
+  $('.popover-dismiss').popover({
+  trigger: 'focus'
 })
+})
+
 </script>
 </body>
